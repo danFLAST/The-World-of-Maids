@@ -12,6 +12,3 @@ Minecraft modpack made for having rest from hard modpacks.
 - Rechiseled
 - Farmer's Delight
 - and etc.
-# License #
-
-This modpack using [MIT](https://choosealicense.com/licenses/mit/) license, so you can use and modify my modpack, but you cant publish TWoM as your idea and modpack. So i can report you. Thank you for understanding.
